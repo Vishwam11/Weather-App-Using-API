@@ -61,7 +61,7 @@ myimage_icon = Button(image=Search_icon, borderwidth=0, cursor="hand2", command=
 myimage_icon.place(x=600, y=34)
 
 # logo
-Logo_image = PhotoImage(file="img/logo1.png")
+Logo_image = PhotoImage(file="img/logo.png")
 logo = Label(image=Logo_image)
 logo.place(x=315, y=115)
 
